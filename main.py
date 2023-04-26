@@ -28,7 +28,7 @@ def callback():
     return 'OK'
 
 # OpenAI GPT 的設定
-openai.api_key = "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"
+openai.api_key = ""
 
 # GPT 模型的回答
 def generate_answer(prompt):
